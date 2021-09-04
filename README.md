@@ -1,0 +1,2 @@
+# kebobei_artificial_intelligence_2021
+一阶运动模型在动画制作领域的应用
